@@ -1,4 +1,5 @@
 const cors = require("cors")
+const db = "teste" 
 const express = require('express')
 const res = require("express/lib/response")
 const app = express()
